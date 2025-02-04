@@ -2,7 +2,9 @@
 
 Här har du min sida. Mycket nöje!
 
-[min vision] (/minvision)
+[minvision](/minvision)
+
+<a href="minvision.md">Min vision</a>
 
 under en klassiker<br>
 <a href="https://basketball.realgm.com">Nyheter från NBA</a>
