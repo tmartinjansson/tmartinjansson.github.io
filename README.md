@@ -2,7 +2,7 @@
 
 Här har du min sida. Mycket nöje!
 
-[minvision](/minvision)
+[min vision](/minvision)
 
 
 lite roligare läsning<br>
